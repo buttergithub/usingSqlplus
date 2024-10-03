@@ -52,6 +52,10 @@ SQL> SHUTDOWN IMMEDIATE;
 ```sql
 SQL> STARTUP;
 ```
+### License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can freely use, copy, modify, and distribute this software, but please include a copy of this license in any distributions.
+
 
 
 
